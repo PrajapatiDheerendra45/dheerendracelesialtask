@@ -43,7 +43,7 @@ const ProductCategories = () => {
               backgroundPosition: "center",
             }}
           >
-            <div className="absolute w-28 h-16 sm:w-16 sm:h-10 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
+            <div className="absolute w-28 h-16 sm:w-28 sm:h-16 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
               <span className="text-white sm:text-xs md:text-sm lg:text-base font-bold opacity-0 group-hover:opacity-100 transition-all duration-300">
                 Pendants
               </span>
@@ -57,7 +57,7 @@ const ProductCategories = () => {
               backgroundPosition: "center",
             }}
           >
-            <div className="absolute w-28 h-16 sm:w-16 sm:h-10 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
+            <div className="absolute w-28 h-16 sm:w-28 sm:h-16 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
               <span className="text-white sm:text-xs md:text-sm lg:text-base font-bold opacity-0 group-hover:opacity-100 transition-all duration-300">
                 Pendants
               </span>
@@ -73,7 +73,7 @@ const ProductCategories = () => {
               backgroundPosition: "center",
             }}
           >
-            <div className="absolute w-28 h-16 sm:w-16 sm:h-10 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
+            <div className="absolute w-28 h-16 sm:w-28 sm:h-16 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
               <span className="text-[#214344] sm:text-xs md:text-sm lg:text-base font-bold opacity-0 group-hover:opacity-100 transition-all duration-300">
                 Necklaces
               </span>
@@ -89,7 +89,7 @@ const ProductCategories = () => {
               backgroundPosition: "center",
             }}
           >
-            <div className="absolute w-28 h-16 sm:w-16 sm:h-10 md:w-32 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
+            <div className="absolute w-28 h-16 sm:w-28 sm:h-16 md:w-32 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-white shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
               <span className="text-white sm:text-xs md:text-sm lg:text-base font-bold opacity-0 group-hover:opacity-100 transition-all duration-300">
                 Bracelets
               </span>
@@ -105,7 +105,7 @@ const ProductCategories = () => {
               backgroundPosition: "center",
             }}
           >
-            <div className="absolute w-28 h-16 sm:w-16 sm:h-10 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-gray-200 shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
+            <div className="absolute w-28 h-16 sm:w-28 sm:h-16 md:w-28 md:h-16 bg-darkGreen bg-opacity-40 rounded-md backdrop-blur-md flex items-center justify-center border-2 border-gray-200 shadow-[inset_0_0_10px_rgba(255,255,0,0.5)]">
               <span className="text-[#214344] sm:text-xs md:text-sm lg:text-base font-bold opacity-0 group-hover:opacity-100 transition-all duration-300">
                 Rings
               </span>
