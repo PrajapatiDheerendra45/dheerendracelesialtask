@@ -36,7 +36,7 @@ const ProductCategories = () => {
 
           {/* Circle 4 with Image (Pendants) */}
           <div
-            className="relative w-24 h-24 sm:w-20 sm:h-20 md:w-28 md:h-28 lg:w-40 lg:h-40 flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
+            className="relative w-44 h-44   flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
             style={{
               backgroundImage: `url(${earning})`,
               backgroundSize: "cover",
@@ -50,7 +50,7 @@ const ProductCategories = () => {
             </div>
           </div>
           <div
-            className="relative w-24 h-24 sm:w-20 sm:h-20 md:w-28 md:h-28 lg:w-40 lg:h-40 flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
+            className="relative w-44 h-44 flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
             style={{
               backgroundImage: `url(${earning})`,
               backgroundSize: "cover",
@@ -66,7 +66,7 @@ const ProductCategories = () => {
 
           {/* Circle 5 with Image (Necklaces) */}
           <div
-            className="relative w-24 h-24 sm:w-20 sm:h-20 md:w-28 md:h-28 lg:w-40 lg:h-40 flex items-center justify-center bg-white border-2 border-gray-200 hover:border-black rounded-full overflow-hidden group snap-center"
+            className="relative w-44 h-44   flex items-center justify-center bg-white border-2 border-gray-200 hover:border-black rounded-full overflow-hidden group snap-center"
             style={{
               backgroundImage: `url(${ring})`,
               backgroundSize: "cover",
@@ -82,7 +82,7 @@ const ProductCategories = () => {
 
           {/* Circle 2 with Image (Bracelets) */}
           <div
-            className="relative w-24 h-24 sm:w-20 sm:h-20 md:w-28 md:h-28 lg:w-40 lg:h-40 flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
+            className="relative w-44 h-44   flex items-center justify-center bg-transparent border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
             style={{
               backgroundImage: `url(${breslet})`,
               backgroundSize: "cover",
@@ -98,7 +98,7 @@ const ProductCategories = () => {
 
           {/* Circle 3 with Image (Rings) */}
           <div
-            className="relative w-24 h-24 sm:w-20 sm:h-20 md:w-28 md:h-28 lg:w-40 lg:h-40 flex items-center justify-center bg-white border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
+            className="relative w-44 h-44   flex items-center justify-center bg-white border-2 border-white hover:border-black rounded-full overflow-hidden group snap-center"
             style={{
               backgroundImage: `url(${ring})`,
               backgroundSize: "cover",
@@ -113,7 +113,7 @@ const ProductCategories = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div>  
   );
 };
 
