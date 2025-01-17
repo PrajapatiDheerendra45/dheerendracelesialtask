@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer className="bg-[#214344] text-white py-10 w-full">
-      <div className="container grid grid-cols-1 sm:grid-cols-1 md:text-center px-4 md:px-36 md:grid-cols-4 md:w-full">
+      <div className="container grid grid-cols-1 sm:grid-cols-1 md:text-center px-4 md:px-36 md:grid-cols-4 lg:grid-cols-4 md:w-full">
         {/* Let Us Help You Section */}
 
         <div className="md:w-[300px] h-full md:py-36 py-24 mx-2">
@@ -103,7 +103,7 @@ const Footer = () => {
 
       {/* Footer Bottom Section */}
       <div className="mt-10 pt-6 text-center text-[#f0d5a0]">
-        <div className="flex justify-center space-x-4 mb-4 py-4   border-t border-b border-orange-100 border-[0.5px] ">
+        <div className="flex justify-center space-x-4 mb-4 py-4   border-t border-b border-[#355455]  ">
           <span className="font-bold relative bottom-1 uppercase">
             Follow Us
           </span>
